@@ -7,3 +7,4 @@
 * [முன்-இறுதி குறியீடு](https://github.com/xxai-art/web)
 * [ஒட்டுமொத்த தளத்திற்கான மொழி தொகுப்புகள்](https://github.com/xxai-art/web/tree/main/i18n)
 * [உள்நுழைவு தொகுதிகளுக்கான மொழி தொகுப்புகள்](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [இணையத்தளம் பன்மொழி ஆவணப்படுத்தல்](https://github.com/xxai-doc)
